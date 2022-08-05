@@ -1,0 +1,99 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>funny frog</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body class="genel">
+    <div class="one">o</div>
+    <div class="tow">
+        <section>
+            <header>
+                <h1>0</h1>
+            </header>
+        </section>
+    </div>
+    <div class="three"></div>
+    <div class="four"></div>
+    <div class="fife"></div>
+    <div class="six"></div>
+    <div class="seven"></div>
+    <div class="eigth"></div>
+    <div class="nine"></div>
+    <style>
+        .genel {
+            background-color: #293462;
+            text-align: center;
+
+        }
+
+        .one {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            background: #dd6b4d;
+            padding-inline-start: 20px;
+            caret-color: #293462;
+            text-align: center;
+            font-size: xx-large;
+            font-style: unset;
+            position: relative;
+            top: 250px;
+            left: 400px;
+
+        }
+
+        .tow {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            background: #dd6b4d;
+            position: relative;
+            top: 100px;
+            left: 600px;
+        }
+
+        .three {
+            width: 500px;
+            height: 300px;
+            border-radius: 40%;
+            background: #dd6b4d;
+            position: relative;
+            top: 60px;
+            left: 330px;
+        }
+
+        .four {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background-color: blue;
+            position: relative;
+            top: 255px;
+            left: 405px;
+
+        }
+
+        .fife {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background-color: blue;
+            position: relative;
+            top: 0px;
+            left: 605px;
+            background-origin: padding-box;
+            border-width: 50px;
+            padding-right: 0px;
+            margin-inline-start: 30px;
+        }
+    </style>
+
+</body>
+
+</html>
